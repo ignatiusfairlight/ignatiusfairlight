@@ -1,4 +1,4 @@
-## Hi, I am Bryan! (aka Ignatius Fairlight)
+## Hi, I am Bryan (aka Ignatius Fairlight)
 
 I am a freelance web developer (or fullstack developer, honestly I'm not sure myself), based in Malaysia.
 
