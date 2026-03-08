@@ -1,10 +1,8 @@
 ## Hi, I am Bryan (aka Ignatius Fairlight)
 
-I am a freelance web developer (or fullstack developer, honestly I'm not sure myself), based in Malaysia.
-
-I use Sveltekit and its libraries (e.g ShadCN-Svelte) for frontend projects and Supabase as its backend.
-
-Currently, I'm learning Laravel to create customizable backend for future projects/commissions.
+I am a backend developer, based in Malaysia.
+Currently, I'm learning Codeigniter 4 for my day job while learning Laravel and 
+Python for some other fun projects.
 
 ## 🛠 Tech Stack
 
