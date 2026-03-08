@@ -1,6 +1,6 @@
 ## Hi, I am Bryan (aka Ignatius Fairlight)
 
-I am a backend developer, based in Malaysia.
+I am a backend developer, based in Malaysia.\n
 Currently, I'm learning Codeigniter 4 for my day job while learning Laravel and 
 Python for some other fun projects.
 
