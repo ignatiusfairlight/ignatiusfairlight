@@ -1,4 +1,4 @@
-## Hi, I am Bryan (aka Ignatius Fairlight)
+## Hi, I am Ignatius Fairlight
 
 I am a backend developer, based in Malaysia.
 
