@@ -2,7 +2,7 @@
 
 I am a backend developer, based in Malaysia.
 
-Currently, I'm learning Codeigniter 4 for my day job while learning Laravel and Python for some other fun projects.
+Currently, I'm learning Codeigniter 4 for my day job while learning Laravel, Python (library pending) and TypeScript (library pending) for some other fun projects.
 
 I also make full-stack web applications using Sveltekit, HTML5 and TailwindCSS. Right now I'm experimenting with Tauri with plans of converting my web apps into desktop apps. 
 
