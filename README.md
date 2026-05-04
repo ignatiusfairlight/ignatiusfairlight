@@ -2,7 +2,7 @@
 
 I craft and tinker things people use everyday. I can make websites and turn those websites into desktop apps. 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 
