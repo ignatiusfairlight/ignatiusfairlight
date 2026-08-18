@@ -1,8 +1,8 @@
-## Ignatius Fairlight, Weaver of Web Applications.
+## Ignatius Fairlight, just your average computer sorcerer.
 
-I craft and tinker things people use everyday. I can make websites and turn those websites into desktop apps.
+I can craft web and desktop applications.
 
-Currently learning Go, Python and Kubernetes to shift towards Cloud Engineering.
+Currently learning and improving my knowledge in Go and Python.
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/702be7ec-fc13-4290-af6f-b39d84389384/thumbnail" >
